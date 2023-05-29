@@ -1,0 +1,82 @@
+{
+  "name": "sgh_fiscal",
+  "version": "0.9.41",
+  "description": "Sgh Fiscal",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build-x64": "electron-builder build --win --x64 --publish never",
+    "build-x86": "electron-builder build --win --ia32 --publish never",
+    "build-mac": "electron-builder build --mac --x64",
+    "deploy-x86": "electron-builder build --win --ia32 --publish always",
+    "deploy-x64": "electron-builder build --win --x64 --publish always"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuliadsonS/Sgh.git"
+  },
+  "build": {
+    "productName": "Sgh Fiscal",
+    "asar": true,
+    "win": {
+      "icon": "build/icon.ico"
+    },
+    "mac": {
+      "category": "public.app-category.utilities",
+      "target": "dmg",
+      "icon": "build/icon.png"
+    },
+    "nsis": {
+      "perMachine": false,
+      "include": "build/install.nsh",
+      "allowElevation": false
+    },
+    "publish": {
+      "provider": "github",
+      "private": true,
+      "token": "132a949db1c6563c3f87e53773f24d4c616c9eb0"
+    }
+  },
+  "author": "JSmart Inc",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "24.0.0",
+    "electron-builder": "23.6.0"
+  },
+  "dependencies": {
+    "base64-stream": "^1.0.0",
+    "bluebird": "^3.5.3",
+    "cjs": "0.0.11",
+    "compression": "^1.0.3",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.5.2",
+    "electron-log": "^4.2.4",
+    "electron-updater": "6.0.3",
+    "escpos": "^3.0.0-alpha.3",
+    "esm": "^3.2.25",
+    "event-stream": "^4.0.1",
+    "express": "^4.17.1",
+    "fast-xml-parser": "^3.12.20",
+    "frameguard": "^3.0.0",
+    "get-stream": "^6.0.0",
+    "helmet": "^3.10.0",
+    "jade": "^1.11.0",
+    "jspdf": "^1.5.3",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "morgan": "^1.10.0",
+    "node-forge": "^0.8.5",
+    "pako": "^1.0.11",
+    "pdfkit": "^0.11.0",
+    "qrcode": "^1.4.4",
+    "request": "^2.88.0",
+    "rescode": "^0.1.10",
+    "serve-favicon": "^2.0.1",
+    "sha1-hex": "^1.0.0",
+    "soap": "^0.31.0",
+    "strong-error-handler": "^3.0.0",
+    "strong-soap": "^2.0.0",
+    "x509.js": "^1.0.0",
+    "xml-crypto": "^1.5.3"
+  }
+}

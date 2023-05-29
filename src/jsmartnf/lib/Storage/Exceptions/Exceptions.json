@@ -1,0 +1,142 @@
+{
+	"cAut": {
+		"error": "40",
+		"msg": "Informar o codigo de autorização da venda no cartão!"
+	},
+	"cEAN": {
+		"error": "40",
+		"msg": "Informar código de barra do produto!"
+	},
+	"cEANTrib": {
+		"error": "40",
+		"msg": "Informar código de barra tributado do produto!"
+	},
+	"CEP": {
+		"error": "40",
+		"msg": "Informar CEP correto do cliente!"
+	},
+	"CEST": {
+		"error": "40",
+		"msg": "Informar o CEST correto!"
+	},
+	"CFOP": {
+		"error": "40",
+		"msg": "Informar o CFOP correto do produto!"
+	},
+	"cMun": {
+		"error": "40",
+		"msg": "Informar a cidade correta do cliente!"
+	},
+	"cNF": {
+		"error": "40",
+		"msg": "Numero da nota incorreto!"
+	},
+	"CNPJ": {
+		"error": "40",
+		"msg": "Informar CNPJ correto do cliente!"
+	},
+	"CPF": {
+		"error": "40",
+		"msg": "Informar CPF correto do cliente!"
+	},
+	"csosn": {
+		"error": "40",
+		"msg": "Informar o CSOSN correto!"
+	},
+	"CST": {
+		"error": "40",
+		"msg": "Informar o CST correto!"
+	},
+	"enderEmit": {
+		"error": "40",
+		"msg": "Informar o endereço correto do cliente!"
+	},
+	"idDest": {
+		"error": "40",
+		"msg": "Informar se a operação é interna ou insterestadual!"
+	},
+	"IE": {
+		"error": "40",
+		"msg": "Informar Inscrição estadual correta do cliente!"
+	},
+	"indFinal": {
+		"error": "40",
+		"msg": "Informar se a nota é para consumidor final!"
+	},
+	"indPag": {
+		"error": "40",
+		"msg": "Informar se a forma de pagamento é dinheiro ou cartão!"
+	},
+	"infAdProd": {
+		"error": "40",
+		"msg": "Descrição incorreta do produto!"
+	},
+	"natOp": {
+		"error": "40",
+		"msg": "Informar se a natureza de operação eh á vista ou a prazo!"
+	},
+	"NCM": {
+		"error": "40",
+		"msg": "Informar o NCM somente com numeros e 8 digitos!"
+	},
+	"nNF": {
+		"error": "40",
+		"msg": "Numero da nota incorreto!"
+	},
+	"nro": {
+		"error": "40",
+		"msg": "Informar o numero correto da residencia do cliente"
+	},
+	"orig": {
+		"error": "40",
+		"msg": "Informar o codigo de origem do produto"
+	},
+	"qCom": {
+		"error": "40",
+		"msg": "Informar a quantidade correta do produto!"
+	},
+	"uCom": {
+		"error": "40",
+		"msg": "Informar a unidade correta do produto Ex: UN, GF, KG!"
+	},
+	"UF": {
+		"error": "40",
+		"msg": "Informar a sigla UF do endereço correta do cliente!"
+	},
+	"vUnCom": {
+		"error": "40",
+		"msg": "Informar a valor correto do produto!"
+	},
+	"xBairro": {
+		"error": "40",
+		"msg": "Informar o bairro correto do cliente!"
+	},
+	"xCpl": {
+		"error": "40",
+		"msg": "Informar o complemento do endereço correto do cliente!"
+	},
+	"xLgr": {
+		"error": "40",
+		"msg": "Informar o logradouro correto do cliente!"
+	},
+	"xNome": {
+		"error": "40",
+		"msg": "Informar o nome correto do cliente!"
+	},
+	"xProd": {
+		"error": "40",
+		"msg": "Informar o nome correto do produto!"
+	},
+	"vProd": {
+		"error": "40",
+		"msg": "Valor do produto fora do padrão aceito!"
+	},
+	"vPag": {
+		"error": "40",
+		"msg": "Forma de pagamento fora do padrão aceito!"
+	},
+	"cUF": {
+		"error": "40",
+		"msg": "Código do município da emissão invalido!"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"1": {
+		"BA": {
+			"FEIRADESANTANA": {
+				"ISSUER": "WEBISS1",
+				"URL": "https://feiradesantanaba.webiss.com.br/servicos/wsnfse/nfseServices.svc"
+			},
+			"MATADESAOJOAO": {
+				"ISSUER": "SAATRI",
+				"URL": "https://matadesaojoao.saatri.com.br/servicos/nfse.svc"
+			}
+		},
+		"SE": {
+			"ARACAJU": {
+				"ISSUER": "WEBISS2"
+			}
+		}
+	},
+	"2": {
+		"BA": {
+			"FEIRADESANTANA": {
+				"ISSUER": "WEBISS1",
+				"URL": "https://feiradesantanaba.webiss.com.br/servicos/wsnfse_homolog/nfseServices.svc"
+			},
+			"MATADESAOJOAO": {
+				"ISSUER": "SAATRI",
+				"URL": "https://homologa-matadesaojoao.saatri.com.br/servicos/nfse.svc"
+			}
+		},
+		"SE": {
+			"ARACAJU": {
+				"ISSUER": "WEBISS2"
+			}
+		}
+	}
+}

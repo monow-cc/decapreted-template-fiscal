@@ -1,0 +1,177 @@
+﻿<EnviarLoteRpsEnvio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="http://www.abrasf.org.br/nfse">
+	<LoteRps Id="Lote0607172500015750000871">
+		<NumeroLote>1</NumeroLote>
+		<Cnpj>06071725000157</Cnpj>
+		<InscricaoMunicipal>5000087</InscricaoMunicipal>
+		<QuantidadeRps>3</QuantidadeRps>
+		<ListaRps>
+			<Rps>
+				<InfRps Id="Rps111">
+					<IdentificacaoRps>
+						<Numero>1</Numero>
+						<Serie>1</Serie>
+						<Tipo>1</Tipo>
+					</IdentificacaoRps>
+					<DataEmissao>2009-09-01T17:09:06</DataEmissao>
+					<NaturezaOperacao>1</NaturezaOperacao>
+					<OptanteSimplesNacional>2</OptanteSimplesNacional>
+					<IncentivadorCultural>2</IncentivadorCultural>
+					<Status>1</Status>
+					<Servico>
+						<Valores>
+							<ValorServicos>1900.00</ValorServicos>
+							<ValorPis>100.00</ValorPis>
+							<ValorInss>11.50</ValorInss>
+							<IssRetido>2</IssRetido>
+							<ValorIss>90.00</ValorIss>
+							<BaseCalculo>1800.00</BaseCalculo>
+							<Aliquota>0.0500</Aliquota>
+							<ValorLiquidoNfse>1688.50</ValorLiquidoNfse>
+							<DescontoIncondicionado>100.00</DescontoIncondicionado>
+						</Valores>
+						<ItemListaServico>0101</ItemListaServico>
+						<CodigoTributacaoMunicipio>0101</CodigoTributacaoMunicipio>
+						<Discriminacao>Teste de emissao no sistema de homologacao de NFS-e 1</Discriminacao>
+						<CodigoMunicipio>3305802</CodigoMunicipio>
+					</Servico>
+					<Prestador>
+						<Cnpj>06071725000157</Cnpj>
+						<InscricaoMunicipal>5000087</InscricaoMunicipal>
+					</Prestador>
+					<Tomador>
+						<IdentificacaoTomador>
+							<CpfCnpj>
+								<Cnpj>16634427000505</Cnpj>
+							</CpfCnpj>
+						</IdentificacaoTomador>
+						<RazaoSocial>Tomador Exemplo</RazaoSocial>
+						<Endereco>
+							<Endereco>Endereço do Tomador</Endereco>
+							<Numero>132</Numero>
+							<Complemento>compl tomador</Complemento>
+							<Bairro>Bairro do Tomador</Bairro>
+							<CodigoMunicipio>3170206</CodigoMunicipio>
+							<Uf>MG</Uf>
+						</Endereco>
+						<Contato>
+							<Telefone>1120200020</Telefone>
+							<Email>Exemplo@exemplo.com.br</Email>
+						</Contato>
+					</Tomador>
+				</InfRps>
+			</Rps>
+			<Rps>
+				<InfRps Id="Rps211">
+					<IdentificacaoRps>
+						<Numero>2</Numero>
+						<Serie>1</Serie>
+						<Tipo>1</Tipo>
+					</IdentificacaoRps>
+					<DataEmissao>2009-09-01T17:09:06</DataEmissao>
+					<NaturezaOperacao>1</NaturezaOperacao>
+					<OptanteSimplesNacional>2</OptanteSimplesNacional>
+					<IncentivadorCultural>2</IncentivadorCultural>
+					<Status>1</Status>
+					<Servico>
+						<Valores>
+							<ValorServicos>1900.00</ValorServicos>
+							<ValorPis>100.00</ValorPis>
+							<ValorInss>11.50</ValorInss>
+							<IssRetido>2</IssRetido>
+							<ValorIss>90.00</ValorIss>
+							<BaseCalculo>1800.00</BaseCalculo>
+							<Aliquota>0.0500</Aliquota>
+							<ValorLiquidoNfse>1688.50</ValorLiquidoNfse>
+							<DescontoIncondicionado>100.00</DescontoIncondicionado>
+						</Valores>
+						<ItemListaServico>0101</ItemListaServico>
+						<CodigoTributacaoMunicipio>0101</CodigoTributacaoMunicipio>
+						<Discriminacao>Teste de emissao no sistema de homologacao de NFS-e 2</Discriminacao>
+						<CodigoMunicipio>3305802</CodigoMunicipio>
+					</Servico>
+					<Prestador>
+						<Cnpj>06071725000157</Cnpj>
+						<InscricaoMunicipal>5000087</InscricaoMunicipal>
+					</Prestador>
+					<Tomador>
+						<IdentificacaoTomador>
+							<CpfCnpj>
+								<Cnpj>16634427000505</Cnpj>
+							</CpfCnpj>
+						</IdentificacaoTomador>
+						<RazaoSocial>Tomador Exemplo</RazaoSocial>
+						<Endereco>
+							<Endereco>Endereço do Tomador</Endereco>
+							<Numero>132</Numero>
+							<Complemento>compl tomador</Complemento>
+							<Bairro>Bairro do Tomador</Bairro>
+							<CodigoMunicipio>3170206</CodigoMunicipio>
+							<Uf>MG</Uf>
+						</Endereco>
+						<Contato>
+							<Telefone>1120200020</Telefone>
+							<Email>Exemplo@exemplo.com.br</Email>
+						</Contato>
+					</Tomador>
+				</InfRps>
+			</Rps>
+			<Rps>
+				<InfRps Id="Rps311">
+					<IdentificacaoRps>
+						<Numero>3</Numero>
+						<Serie>1</Serie>
+						<Tipo>1</Tipo>
+					</IdentificacaoRps>
+					<DataEmissao>2009-09-01T17:09:06</DataEmissao>
+					<NaturezaOperacao>1</NaturezaOperacao>
+					<OptanteSimplesNacional>2</OptanteSimplesNacional>
+					<IncentivadorCultural>2</IncentivadorCultural>
+					<Status>1</Status>
+					<Servico>
+						<Valores>
+							<ValorServicos>1900.00</ValorServicos>
+							<ValorPis>100.00</ValorPis>
+							<ValorInss>11.50</ValorInss>
+							<IssRetido>2</IssRetido>
+							<ValorIss>90.00</ValorIss>
+							<BaseCalculo>1800.00</BaseCalculo>
+							<Aliquota>0.0500</Aliquota>
+							<ValorLiquidoNfse>1688.50</ValorLiquidoNfse>
+							<DescontoIncondicionado>100.00</DescontoIncondicionado>
+						</Valores>
+						<ItemListaServico>0101</ItemListaServico>
+						<CodigoTributacaoMunicipio>0101</CodigoTributacaoMunicipio>
+						<Discriminacao>Teste de emissao no sistema de homologacao de NFS-e 3</Discriminacao>
+						<CodigoMunicipio>3305802</CodigoMunicipio>
+					</Servico>
+					<Prestador>
+						<Cnpj>06071725000157</Cnpj>
+						<InscricaoMunicipal>5000087</InscricaoMunicipal>
+					</Prestador>
+					<Tomador>
+						<IdentificacaoTomador>
+							<CpfCnpj>
+								<Cnpj>16634427000505</Cnpj>
+							</CpfCnpj>
+						</IdentificacaoTomador>
+						<RazaoSocial>Tomador Exemplo</RazaoSocial>
+						<Endereco>
+							<Endereco>Endereço do Tomador</Endereco>
+							<Numero>132</Numero>
+							<Complemento>compl tomador</Complemento>
+							<Bairro>Bairro do Tomador</Bairro>
+							<CodigoMunicipio>3170206</CodigoMunicipio>
+							<Uf>MG</Uf>
+						</Endereco>
+						<Contato>
+							<Telefone>1120200020</Telefone>
+							<Email>Exemplo@exemplo.com.br</Email>
+						</Contato>
+					</Tomador>
+				</InfRps>
+			</Rps>
+		</ListaRps>
+	</LoteRps>
+</EnviarLoteRpsEnvio>

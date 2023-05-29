@@ -1,0 +1,1098 @@
+{
+	"AC": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.sefaznet.ac.gov.br/nfce/qrcode",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://hml.sefaznet.ac.gov.br/nfce/qrcode",
+				"Version": "200"
+			}
+		}
+	},
+	"AL": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://nfce.sefaz.al.gov.br/QRCode/consultarNFCe.jsp",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://nfce.sefaz.al.gov.br/QRCode/consultarNFCe.jsp",
+				"Version": "200"
+			}
+		}
+	},
+	"AM": {
+		"1": {
+			"CscNFCe": {
+				"Method": "admCscNFCe",
+				"Operation": "CscNFCe",
+				"Url": "https://nfce.sefaz.am.gov.br/nfce-services/services/CscNFCe",
+				"Version": "1.00"
+			},
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfce.sefaz.am.gov.br/nfce-services/services/NfeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsulta4",
+				"Url": "https://nfce.sefaz.am.gov.br/nfce-services/services/NfeConsulta4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://sistemas.sefaz.am.gov.br/nfceweb/consultarNFCe.jsp",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfce.sefaz.am.gov.br/nfce-services/services/NfeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfce.sefaz.am.gov.br/nfce-services/services/NfeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfce.sefaz.am.gov.br/nfce-services/services/NfeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Url": "https://nfce.sefaz.am.gov.br/nfce-services/services/RecepcaoEvento4",
+				"Version": "1.00"
+			}
+		},
+		"2": {
+			"CscNFCe": {
+				"Method": "admCscNFCe",
+				"Operation": "CscNFCe",
+				"Url": "https://homnfce.sefaz.am.gov.br/nfce-services/services/CscNFCe",
+				"Version": "1.00"
+			},
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://homnfce.sefaz.am.gov.br/nfce-services/services/NfeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsulta4",
+				"Url": "https://homnfce.sefaz.am.gov.br/nfce-services/services/NfeConsulta4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://homnfce.sefaz.am.gov.br/nfceweb/consultarNFCe.jsp",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://homnfce.sefaz.am.gov.br/nfce-services/services/NfeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://homnfce.sefaz.am.gov.br/nfce-services/services/NfeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://homnfce.sefaz.am.gov.br/nfce-services/services/NfeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Url": "https://homnfce.sefaz.am.gov.br/nfce-services/services/RecepcaoEvento4",
+				"Version": "1.00"
+			}
+		}
+	},
+	"AP": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://www.sefaz.ap.gov.br/nfce/nfcep.php",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://www.sefaz.ap.gov.br/nfcehml/nfce.php",
+				"Version": "200"
+			}
+		}
+	},
+	"BA": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://nfe.sefaz.ba.gov.br/servicos/nfce/modulos/geral/NFCEC_consulta_chave_acesso.aspx",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://hnfe.sefaz.ba.gov.br/servicos/nfce/qrcode.aspx",
+				"Version": "200"
+			}
+		}
+	},
+	"CE": {
+		"1": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsulta4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://nfce.sefaz.ce.gov.br/pages/ShowNFCe.html",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Version": "1.00"
+			}
+		},
+		"2": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsulta4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://nfceh.sefaz.ce.gov.br/pages/ShowNFCe.html",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Version": "1.00"
+			}
+		}
+	},
+	"DF": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://dec.fazenda.df.gov.br/ConsultarNFCe.aspx",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://dec.fazenda.df.gov.br/ConsultarNFCe.aspx",
+				"Version": "200"
+			}
+		}
+	},
+	"ES": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://app.sefaz.es.gov.br/ConsultaNFCe/qrcode.aspx",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://homologacao.sefaz.es.gov.br/ConsultaNFCe/qrcode.aspx",
+				"Version": "200"
+			}
+		}
+	},
+	"GO": {
+		"1": {
+			"CscNFCe": {
+				"Method": "admCscNFCe",
+				"Operation": "CscNFCe",
+				"Url": "https://nfe.sefaz.go.gov.br/nfe/services/v2/CscNFCe",
+				"Version": "1.00"
+			},
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfe.sefaz.go.gov.br/nfe/services/NFeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsulta4",
+				"Url": "https://nfe.sefaz.go.gov.br/nfe/services/NFeConsultaProtocolo4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://nfe.sefaz.go.gov.br/nfeweb/sites/nfce/danfeNFCe",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfe.sefaz.go.gov.br/nfe/services/NFeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfe.sefaz.go.gov.br/nfe/services/NFeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfe.sefaz.go.gov.br/nfe/services/NFeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Url": "https://nfe.sefaz.go.gov.br/nfe/services/NFeRecepcaoEvento4",
+				"Version": "1.00"
+			}
+		},
+		"2": {
+			"CscNFCe": {
+				"Method": "admCscNFCe",
+				"Operation": "CscNFCe",
+				"Url": "https://homolog.sefaz.go.gov.br/nfe/services/v2/CscNFCe",
+				"Version": "1.00"
+			},
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://homolog.sefaz.go.gov.br/nfe/services/NFeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsulta4",
+				"Url": "https://homolog.sefaz.go.gov.br/nfe/services/NFeConsultaProtocolo4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://homolog.sefaz.go.gov.br/nfeweb/sites/nfce/danfeNFCe",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://homolog.sefaz.go.gov.br/nfe/services/NFeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://homolog.sefaz.go.gov.br/nfe/services/NFeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://homolog.sefaz.go.gov.br/nfe/services/NFeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Url": "https://homolog.sefaz.go.gov.br/nfe/services/NFeRecepcaoEvento4",
+				"Version": "1.00"
+			}
+		}
+	},
+	"MA": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.nfce.sefaz.ma.gov.br/portal/consultarNFCe.jsp",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.hom.nfce.sefaz.ma.gov.br/portal/consultarNFCe.jsp",
+				"Version": "200"
+			}
+		}
+	},
+	"MS": {
+		"1": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfce.fazenda.ms.gov.br/ws/NFeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://nfce.fazenda.ms.gov.br/ws/NFeConsultaProtocolo4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.dfe.ms.gov.br/nfce/qrcode",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfce.fazenda.ms.gov.br/ws/NFeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfce.fazenda.ms.gov.br/ws/NFeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfce.fazenda.ms.gov.br/ws/NFeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Url": "https://nfce.fazenda.ms.gov.br/ws/NFeRecepcaoEvento4",
+				"Version": "1.00"
+			}
+		},
+		"2": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://hom.nfce.sefaz.ms.gov.br/ws/NFeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://hom.nfce.sefaz.ms.gov.br/ws/NFeConsultaProtocolo4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.dfe.ms.gov.br/nfce/qrcode",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://hom.nfce.sefaz.ms.gov.br/ws/NFeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://hom.nfce.sefaz.ms.gov.br/ws/NFeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://hom.nfce.sefaz.ms.gov.br/ws/NFeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento4",
+				"Url": "https://hom.nfce.sefaz.ms.gov.br/ws/NFeRecepcaoEvento4",
+				"Version": "1.00"
+			}
+		}
+	},
+	"MT": {
+		"1": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfce.sefaz.mt.gov.br/nfcews/services/NfeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://nfce.sefaz.mt.gov.br/nfcews/services/NfeConsulta4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.sefaz.mt.gov.br/nfce/consultanfce",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfce.sefaz.mt.gov.br/nfcews/services/NfeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfce.sefaz.mt.gov.br/nfcews/services/NfeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfce.sefaz.mt.gov.br/nfcews/services/NfeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Url": "https://nfce.sefaz.mt.gov.br/nfcews/services/RecepcaoEvento4",
+				"Version": "1.00"
+			}
+		},
+		"2": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://homologacao.sefaz.mt.gov.br/nfcews/services/NfeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://homologacao.sefaz.mt.gov.br/nfcews/services/NfeConsulta4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://homologacao.sefaz.mt.gov.br/nfce/consultanfce",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://homologacao.sefaz.mt.gov.br/nfcews/services/NfeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://homologacao.sefaz.mt.gov.br/nfcews/services/NfeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://homologacao.sefaz.mt.gov.br/nfcews/services/NfeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento4",
+				"Url": "https://homologacao.sefaz.mt.gov.br/nfcews/services/RecepcaoEvento4",
+				"Version": "1.00"
+			}
+		}
+	},
+	"PA": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://appnfc.sefa.pa.gov.br/portal/view/consultas/nfce/nfceForm.seam",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://appnfc.sefa.pa.gov.br/portal-homologacao/view/consultas/nfce/nfceForm.seam",
+				"Version": "200"
+			}
+		}
+	},
+	"PB": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.receita.pb.gov.br/nfce",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.receita.pb.gov.br/nfcehom",
+				"Version": "200"
+			}
+		}
+	},
+	"PE": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://nfce.sefaz.pe.gov.br/nfce-web/consultarNFCe",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://nfcehomolog.sefaz.pe.gov.br/nfce-web/consultarNFCe",
+				"Version": "200"
+			}
+		}
+	},
+	"PR": {
+		"1": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfce.sefa.pr.gov.br/nfce/NFeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://nfce.sefa.pr.gov.br/nfce/NFeConsultaProtocolo4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.fazenda.pr.gov.br/nfce/qrcode?",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfce.sefa.pr.gov.br/nfce/NFeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacao",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfce.sefa.pr.gov.br/nfce/NFeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfce.sefa.pr.gov.br/nfce/NFeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Url": "https://nfce.sefa.pr.gov.br/nfce/NFeRecepcaoEvento4",
+				"Version": "1.00"
+			}
+		},
+		"2": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://homologacao.nfce.sefa.pr.gov.br/nfce/NFeAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsulta4",
+				"Url": "https://homologacao.nfce.sefa.pr.gov.br/nfce/NFeConsultaProtocolo4",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.fazenda.pr.gov.br/nfce/qrcode?",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://homologacao.nfce.sefa.pr.gov.br/nfce/NFeInutilizacao4",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://homologacao.nfce.sefa.pr.gov.br/nfce/NFeRetAutorizacao4",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://homologacao.nfce.sefa.pr.gov.br/nfce/NFeStatusServico4",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Url": "https://homologacao.nfce.sefa.pr.gov.br/nfce/NFeRecepcaoEvento4",
+				"Version": "1.00"
+			}
+		}
+	},
+	"RJ": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www4.fazenda.rj.gov.br/consultaNFCe/QRCode?",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www4.fazenda.rj.gov.br/consultaNFCe/QRCode?",
+				"Version": "200"
+			}
+		}
+	},
+	"RN": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://nfce.set.rn.gov.br/consultarNFCe.aspx",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://hom.nfce.set.rn.gov.br/consultarNFCe.aspx",
+				"Version": "200"
+			}
+		}
+	},
+	"RO": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.nfce.sefin.ro.gov.br/consultanfce/consulta.jsp",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.nfce.sefin.ro.gov.br/consultanfce/consulta.jsp",
+				"Version": "200"
+			}
+		}
+	},
+	"RS": {
+		"1": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfce.sefazrs.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://nfce.sefazrs.rs.gov.br/ws/NfeConsulta/NfeConsulta4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfce.sefazrs.rs.gov.br/ws/nfeinutilizacao/nfeinutilizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfce.sefazrs.rs.gov.br/ws/NfeRetAutorizacao/NFeRetAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfce.sefazrs.rs.gov.br/ws/NfeStatusServico/NfeStatusServico4.asmx",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento4",
+				"Url": "https://nfce.sefazrs.rs.gov.br/ws/recepcaoevento/recepcaoevento4.asmx",
+				"Version": "1.00"
+			}
+		},
+		"2": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfce-homologacao.sefazrs.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://nfce-homologacao.sefazrs.rs.gov.br/ws/NfeConsulta/NfeConsulta4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfce-homologacao.sefazrs.rs.gov.br/ws/nfeinutilizacao/nfeinutilizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfce-homologacao.sefazrs.rs.gov.br/ws/NfeRetAutorizacao/NFeRetAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfce-homologacao.sefazrs.rs.gov.br/ws/NfeStatusServico/NfeStatusServico4.asmx",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento4",
+				"Url": "https://nfce-homologacao.sefazrs.rs.gov.br/ws/recepcaoevento/recepcaoevento4.asmx",
+				"Version": "1.00"
+			}
+		}
+	},
+	"SC": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Version": "200"
+			}
+		}
+	},
+	"SE": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.nfce.se.gov.br/nfce/qrcode",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://www.hom.nfe.se.gov.br/portal/consultarNFCe.jsp",
+				"Version": "200"
+			}
+		}
+	},
+	"SP": {
+		"1": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfce.fazenda.sp.gov.br/ws/NFeAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://nfce.fazenda.sp.gov.br/ws/NFeConsultaProtocolo4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://www.nfce.fazenda.sp.gov.br/NFCeConsultaPublica/Paginas/ConsultaQRCode.aspx",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfce.fazenda.sp.gov.br/ws/NFeInutilizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfce.fazenda.sp.gov.br/ws/NFeRetAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfce.fazenda.sp.gov.br/ws/NFeStatusServico4.asmx",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento",
+				"Url": "https://nfce.fazenda.sp.gov.br/ws/NFeRecepcaoEvento4.asmx",
+				"Version": "1.00"
+			}
+		},
+		"2": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://homologacao.nfce.fazenda.sp.gov.br/ws/NFeAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://homologacao.nfce.fazenda.sp.gov.br/ws/NFeConsultaProtocolo4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "https://www.homologacao.nfce.fazenda.sp.gov.br/NFCeConsultaPublica/Paginas/ConsultaQRCode.aspx",
+				"Version": "200"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://homologacao.nfce.fazenda.sp.gov.br/ws/NFeInutilizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://homologacao.nfce.fazenda.sp.gov.br/ws/NFeRetAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://homologacao.nfce.fazenda.sp.gov.br/ws/NFeStatusServico4.asmx",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento4",
+				"Url": "https://homologacao.nfce.fazenda.sp.gov.br/ws/NFeRecepcaoEvento4.asmx",
+				"Version": "1.00"
+			}
+		}
+	},
+	"SVRS": {
+		"1": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfce.svrs.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://nfce.svrs.rs.gov.br/ws/NfeConsulta/NfeConsulta4.asmx",
+				"Version": "4.00"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfce.svrs.rs.gov.br/ws/nfeinutilizacao/nfeinutilizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfce.svrs.rs.gov.br/ws/NfeRetAutorizacao/NFeRetAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfce.svrs.rs.gov.br/ws/NfeStatusServico/NfeStatusServico4.asmx",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento4",
+				"Url": "https://nfce.svrs.rs.gov.br/ws/recepcaoevento/recepcaoevento4.asmx",
+				"Version": "1.00"
+			}
+		},
+		"2": {
+			"NfeAutorizacao": {
+				"Method": "nfeAutorizacaoLote",
+				"Operation": "NFeAutorizacao4",
+				"Url": "https://nfce-homologacao.svrs.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeConsultaProtocolo": {
+				"Method": "nfeConsultaNF",
+				"Operation": "NFeConsultaProtocolo4",
+				"Url": "https://nfce-homologacao.svrs.rs.gov.br/ws/NfeConsulta/NfeConsulta4.asmx",
+				"Version": "4.00"
+			},
+			"NfeInutilizacao": {
+				"Method": "nfeInutilizacaoNF",
+				"Operation": "NFeInutilizacao4",
+				"Url": "https://nfce-homologacao.svrs.rs.gov.br/ws/nfeinutilizacao/nfeinutilizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeRetAutorizacao": {
+				"Method": "nfeRetAutorizacaoLote",
+				"Operation": "NFeRetAutorizacao4",
+				"Url": "https://nfce-homologacao.svrs.rs.gov.br/ws/NfeRetAutorizacao/NFeRetAutorizacao4.asmx",
+				"Version": "4.00"
+			},
+			"NfeStatusServico": {
+				"Method": "nfeStatusServicoNF",
+				"Operation": "NFeStatusServico4",
+				"Url": "https://nfce-homologacao.svrs.rs.gov.br/ws/NfeStatusServico/NfeStatusServico4.asmx",
+				"Version": "4.00"
+			},
+			"RecepcaoEvento": {
+				"Method": "nfeRecepcaoEvento",
+				"Operation": "NFeRecepcaoEvento4",
+				"Url": "https://nfce-homologacao.svrs.rs.gov.br/ws/recepcaoevento/recepcaoevento4.asmx",
+				"Version": "1.00"
+			}
+		}
+	},
+	"TO": {
+		"1": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://apps.sefaz.to.gov.br/portal-nfce/qrcodeNFCe",
+				"Version": "200"
+			}
+		},
+		"2": {
+			"NfeConsultaQR": {
+				"Method": "QR-CODE",
+				"Operation": "NfeConsultaQR",
+				"Url": "http://apps.sefaz.to.gov.br/portal-nfce2/qrcodeNFCe",
+				"Version": "200"
+			}
+		}
+	}
+}
